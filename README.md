@@ -1,11 +1,6 @@
 # newyearresolution
 
-This is post content for NYR
-
-Post:
-
-
-Because we talk about numbers in hashtag#Datascience let's talk number in this: While about 45% of people do actually make a resolution, the odds are much less that you’ll achieve them – in fact only about 8% do, a few years old Research states. 
+Because we talk about numbers in #Datascience let's talk number in this: While about 45% of people do actually make a resolution, the odds are much less that you’ll achieve them – in fact only about 8% do, a few years old Research states. 
 
 This post is not to demotivate anyone but to encourage people to see the reality. It's been one of the fanciest things that we do on social media a day before the change in our **calendar year** (we've new Fiscal Year, we've new Education Year, we've new Appraisal Cycle Year ufff) 
 
